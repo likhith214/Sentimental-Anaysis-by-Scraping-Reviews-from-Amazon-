@@ -1,6 +1,6 @@
 # Amazon Review Sentiment Analyzer
 
-![Amazon Review Sentiment Analyzer](path_to_your_logo_image.png)
+![Amazon Review Sentiment Analyzer](image.png)
 
 ## Overview
 
