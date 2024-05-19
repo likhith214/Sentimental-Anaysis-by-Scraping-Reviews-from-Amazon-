@@ -64,15 +64,6 @@ Amazon Review Sentiment Analyzer is a web application that allows you to scrape 
 
 If you want to contribute to this project, please fork the repository and create a pull request. Feel free to open issues for any bugs or feature requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out at [your-email@example.com].
-
----
 
 ### Disclaimer
 
