@@ -1,0 +1,1 @@
+# Sentimental-Anaysis-by-Scraping-Reviews-from-Amazon-
