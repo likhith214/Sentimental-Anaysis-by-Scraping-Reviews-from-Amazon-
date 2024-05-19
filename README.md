@@ -16,8 +16,8 @@ Amazon Review Sentiment Analyzer is a web application that allows you to scrape 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/amazon-review-sentiment-analyzer.git
-    cd amazon-review-sentiment-analyzer
+    https://github.com/likhith214/Sentimental-Anaysis-by-Scraping-Reviews-from-Amazon-.git
+    cd Sentimental-Anaysis-by-Scraping-Reviews-from-Amazon-
     ```
 
 2. **Install the required dependencies**:
