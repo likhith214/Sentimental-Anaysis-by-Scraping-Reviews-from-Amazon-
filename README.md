@@ -45,9 +45,6 @@ Amazon Review Sentiment Analyzer is a web application that allows you to scrape 
 4. **View the results**:
     - The application will scrape the reviews, perform sentiment analysis, and display the results with interactive visualizations.
 
-## Example
-
-![Example](path_to_your_example_screenshot.png)
 
 ## Dependencies
 
